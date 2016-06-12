@@ -1,0 +1,7 @@
+C:\Users\JeisonF\Source\Repos\Learning_.App\Learning_.Controller\bin\Debug\Learning_.Controller.dll
+C:\Users\JeisonF\Source\Repos\Learning_.App\Learning_.Controller\bin\Debug\Learning_.Controller.pdb
+C:\Users\JeisonF\Source\Repos\Learning_.App\Learning_.Controller\bin\Debug\Learning_.Domain.dll
+C:\Users\JeisonF\Source\Repos\Learning_.App\Learning_.Controller\bin\Debug\Learning_.Domain.pdb
+C:\Users\JeisonF\Source\Repos\Learning_.App\Learning_.Controller\obj\Debug\Learning_.Controller.csprojResolveAssemblyReference.cache
+C:\Users\JeisonF\Source\Repos\Learning_.App\Learning_.Controller\obj\Debug\Learning_.Controller.dll
+C:\Users\JeisonF\Source\Repos\Learning_.App\Learning_.Controller\obj\Debug\Learning_.Controller.pdb

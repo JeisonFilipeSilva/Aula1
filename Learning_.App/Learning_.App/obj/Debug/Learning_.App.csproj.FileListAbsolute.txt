@@ -1,0 +1,13 @@
+C:\Users\JeisonF\Source\Repos\Learning_.App\Learning_.App\bin\Debug\Learning_.App.exe.config
+C:\Users\JeisonF\Source\Repos\Learning_.App\Learning_.App\bin\Debug\Learning_.App.exe
+C:\Users\JeisonF\Source\Repos\Learning_.App\Learning_.App\bin\Debug\Learning_.App.pdb
+C:\Users\JeisonF\Source\Repos\Learning_.App\Learning_.App\bin\Debug\Learning_.Controller.dll
+C:\Users\JeisonF\Source\Repos\Learning_.App\Learning_.App\bin\Debug\Learning_.Domain.dll
+C:\Users\JeisonF\Source\Repos\Learning_.App\Learning_.App\bin\Debug\Learning_.Controller.pdb
+C:\Users\JeisonF\Source\Repos\Learning_.App\Learning_.App\bin\Debug\Learning_.Domain.pdb
+C:\Users\JeisonF\Source\Repos\Learning_.App\Learning_.App\obj\Debug\Learning_.App.csprojResolveAssemblyReference.cache
+C:\Users\JeisonF\Source\Repos\Learning_.App\Learning_.App\obj\Debug\Learning_.App.exe
+C:\Users\JeisonF\Source\Repos\Learning_.App\Learning_.App\obj\Debug\Learning_.App.pdb
+C:\Users\JeisonF\Source\Repos\Aula1\Learning_.App\Learning_.App\bin\Debug\Learning_.App.exe.config
+C:\Users\JeisonF\Source\Repos\Aula1\Learning_.App\Learning_.App\obj\Debug\Learning_.App.exe
+C:\Users\JeisonF\Source\Repos\Aula1\Learning_.App\Learning_.App\obj\Debug\Learning_.App.pdb
